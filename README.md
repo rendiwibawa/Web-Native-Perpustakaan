@@ -1,27 +1,34 @@
 # Web-Native-Perpustakaan
->
-## Ini adalah tampilan dari Website Perpustakaanku
+> Apa Itu Native? ?...native adalah aplikasi yang dibangun dengan bahasa pemrograman yang spesifik untuk platform tertentu
+# =====> Ini adalah tampilan dari Website Perpustakaanku <=====
 ## > Dashboard
 ![Alt Text](https://github.com/rendiwibawa/Web-Native-Perpustakaan/blob/master/foto/a.JPG)
 >Pada Dashboard , akan menampilkan Informasi tentang jumlah buku,Anggota,juga transaksi
-## Data Buku 
-![Alt Text](https://github.com/rendiwibawa/Web-Native-Perpustakaan/blob/master/foto/b.JPG)
+## > Data Buku 
 > Pada data buku akan menampilkan jumlah dan beberapa informasi buku yang tersimpan
-## Penambahan Data Buku(Create)
-![Alt Text](https://github.com/rendiwibawa/Web-Native-Perpustakaan/blob/master/foto/c.JPG)
+![Alt Text](https://github.com/rendiwibawa/Web-Native-Perpustakaan/blob/master/foto/b.JPG)
+
+## > Penambahan Data Buku(Create)
 > Pada Aksi "Tambah" berfungsi untuk Menambahkan data(Create) Buku, Kemudian akan di simpan kedalam database mysql dan di tampilkan kembali kedalam page data buku
-## Hasil (Create) 
+![Alt Text](https://github.com/rendiwibawa/Web-Native-Perpustakaan/blob/master/foto/c.JPG)
+
+## > Hasil (Create) Buku
 > Ini adalah hasil tampil dari data yang sudah kita buat tadi. Di tunjuk dengan tangan itu ya
 ![Alt Text](https://github.com/rendiwibawa/Web-Native-Perpustakaan/blob/master/foto/d.jpeg)
-## Data Anggota
-![Alt Text](https://github.com/rendiwibawa/Web-Native-Perpustakaan/blob/master/foto/e.JPG)
+
+## > Data Anggota
 > Pada data buku akan menampilkan jumlah dan beberapa informasi buku yang tersimpan
-## Penambahan Data Anggota(Create)
-![Alt Text](https://github.com/rendiwibawa/Web-Native-Perpustakaan/blob/master/foto/f.JPG)
+![Alt Text](https://github.com/rendiwibawa/Web-Native-Perpustakaan/blob/master/foto/e.JPG)
+
+## > Penambahan Data Anggota(Create)
 > Pada Aksi "Tambah" berfungsi untuk Menambahkan data(Create) Anggota, Kemudian akan di simpan kedalam database mysql dan di tampilkan kembali kedalam page data Anggota
-## Hasil (Create)
+![Alt Text](https://github.com/rendiwibawa/Web-Native-Perpustakaan/blob/master/foto/f.JPG)
+
+## > Hasil (Create) Anggota
 > Ini adalah hasil tampil dari data yang sudah kita buat tadi. Di tunjuk dengan tangan itu ya
 ![Alt Text](https://github.com/rendiwibawa/Web-Native-Perpustakaan/blob/master/foto/g.jpeg)
-## Peminjaman
-![Alt Text](https://github.com/rendiwibawa/Web-Native-Perpustakaan/blob/master/foto/h.JPG)
+
+## > Peminjaman
 > Pada Bagian Peminjaman menampilkan informasi buku yang sedang di pinjam
+![Alt Text](https://github.com/rendiwibawa/Web-Native-Perpustakaan/blob/master/foto/h.JPG)
+
