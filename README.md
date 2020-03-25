@@ -8,7 +8,7 @@ native adalah aplikasi yang dibangun dengan bahasa pemrograman yang spesifik unt
 ![Alt Text](https://github.com/rendiwibawa/Web-Native-Perpustakaan/blob/master/foto/a.JPG)
 
 ## > Data Buku 
-> Pada data buku akan menampilkan jumlah dan beberapa informasi buku yang tersimpan
+> Pada data buku akan menampilkan jumlah dan beberapa informasi buku yang tersimpan, data yang berada di tabel buku, terkoneksi dengan database pada mysql db_perpus. dengan menggunakan file koneksi dengan syntax $koneksi = mysqli_connect('localhost','root',' ','nama_database'); jadi file tersebut akan memberikan akses masuk kedalam database yang akan kita gunakan untuk menyimpan datanya nanti
 ![Alt Text](https://github.com/rendiwibawa/Web-Native-Perpustakaan/blob/master/foto/b.JPG)
 
 ## > Penambahan Data Buku(Create)
@@ -20,11 +20,11 @@ native adalah aplikasi yang dibangun dengan bahasa pemrograman yang spesifik unt
 ![Alt Text](https://github.com/rendiwibawa/Web-Native-Perpustakaan/blob/master/foto/d.jpeg)
 
 ## > Data Anggota
-> Pada data buku akan menampilkan jumlah dan beberapa informasi buku yang tersimpan
+> Pada data buku akan menampilkan jumlah dan beberapa informasi buku yang tersimpan terkoneksi dengan database pada mysql db_perpus. dengan menggunakan file koneksi dengan isian syntax $koneksi = mysqli_connect('localhost','root',' ','nama_database'); jadi file tersebut akan memberikan akses masuk kedalam database yang akan kita gunakan untuk menyimpan datanya nanti
 ![Alt Text](https://github.com/rendiwibawa/Web-Native-Perpustakaan/blob/master/foto/e.JPG)
 
 ## > Penambahan Data Anggota(Create)
-> Pada Aksi "Tambah" berfungsi untuk Menambahkan data(Create) Anggota, Kemudian akan di simpan kedalam database mysql dan di tampilkan kembali kedalam page data Anggota
+> Pada Aksi "Tambah" berfungsi untuk Menambahkan data(Create) Anggota, Kemudian akan di simpan kedalam database mysql dan di tampilkan kembali kedalam page data Anggota 
 ![Alt Text](https://github.com/rendiwibawa/Web-Native-Perpustakaan/blob/master/foto/f.JPG)
 
 ## > Hasil (Create) Anggota
