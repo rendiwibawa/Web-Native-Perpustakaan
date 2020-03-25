@@ -1,7 +1,7 @@
 # Web-Native-Perpustakaan
 >
 ## Ini adalah tampilan dari Website Perpustakaanku
-## Dashboard
+## > Dashboard
 ![Alt Text](https://github.com/rendiwibawa/Web-Native-Perpustakaan/blob/master/foto/a.JPG)
 >Pada Dashboard , akan menampilkan Informasi tentang jumlah buku,Anggota,juga transaksi
 ## Data Buku 
