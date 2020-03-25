@@ -1,6 +1,6 @@
 # Web-Native-Perpustakaan
 > Apa Itu Native? ?...native adalah aplikasi yang dibangun dengan bahasa pemrograman yang spesifik untuk platform tertentu
-# =====> Ini adalah tampilan dari Website Perpustakaanku <=====
+# => Ini adalah tampilan dari Website Perpustakaanku <=
 ## > Dashboard
 ![Alt Text](https://github.com/rendiwibawa/Web-Native-Perpustakaan/blob/master/foto/a.JPG)
 >Pada Dashboard , akan menampilkan Informasi tentang jumlah buku,Anggota,juga transaksi
