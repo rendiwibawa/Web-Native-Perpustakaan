@@ -4,6 +4,6 @@
 ![Alt Text](https://github.com/rendiwibawa/Web-Native-Perpustakaan/blob/master/foto/c.JPG)
 ![Alt Text](https://github.com/rendiwibawa/Web-Native-Perpustakaan/blob/master/foto/d.jpeg)
 ![Alt Text](https://github.com/rendiwibawa/Web-Native-Perpustakaan/blob/master/foto/e.JPG)
-![Alt Text](https://github.com/rendiwibawa/Web-Native-Perpustakaan/blob/master/foto/f.jpeg)
-![Alt Text](https://github.com/rendiwibawa/Web-Native-Perpustakaan/blob/master/foto/g.JPG)
+![Alt Text](https://github.com/rendiwibawa/Web-Native-Perpustakaan/blob/master/foto/f.JPG)
+![Alt Text](https://github.com/rendiwibawa/Web-Native-Perpustakaan/blob/master/foto/g.jpeg)
 ![Alt Text](https://github.com/rendiwibawa/Web-Native-Perpustakaan/blob/master/foto/h.JPG)
