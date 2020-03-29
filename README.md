@@ -47,3 +47,7 @@
 ## ꧁༒☬aksi tambah pinjam☬༒꧂
 > tambah akan menambah data peminjaman buku
 ![Alt Text](https://github.com/rendiwibawa/Web-Native-Perpustakaan/blob/master/foto/tambah%20pinjam.JPG)
+
+## ꧁༒☬aksi form pengembalian☬༒꧂
+> pengembalian akan mendata pengembalian buku
+![Alt Text](https://github.com/rendiwibawa/Web-Native-Perpustakaan/blob/master/foto/form%20pengembalian.JPG)
