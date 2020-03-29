@@ -2,6 +2,9 @@
 > Apa Itu Native? ?...
 native adalah aplikasi yang dibangun dengan bahasa pemrograman yang spesifik untuk platform tertentu
 
+## > Login
+> login jika akan membaja data jika anda sudah tergabung dalam anggota perpus akan meminta username dan password 
+![Alt Text](https://github.com/rendiwibawa/Web-Native-Perpustakaan/blob/master/foto/login.JPG)
 
 ## > Dashboard
 >Pada Dashboard , akan menampilkan Informasi tentang jumlah buku,Anggota,juga transaksi
@@ -35,22 +38,19 @@ native adalah aplikasi yang dibangun dengan bahasa pemrograman yang spesifik unt
 > Pada Bagian Peminjaman menampilkan informasi buku yang sedang di pinjam
 ![Alt Text](https://github.com/rendiwibawa/Web-Native-Perpustakaan/blob/master/foto/h.JPG)
 
-## > next
+## > saat aksi detail
 > lorem
 ![Alt Text](https://github.com/rendiwibawa/Web-Native-Perpustakaan/blob/master/foto/detail.JPG)
 
-## > next
+## > aksi edit
 > lorem
 ![Alt Text](https://github.com/rendiwibawa/Web-Native-Perpustakaan/blob/master/foto/edit%20peminjam.JPG)
 
-## > next
-> lorem
-![Alt Text](https://github.com/rendiwibawa/Web-Native-Perpustakaan/blob/master/foto/login.JPG)
 
-## > next
+## > aksi pinjam
 > lorem
 ![Alt Text](https://github.com/rendiwibawa/Web-Native-Perpustakaan/blob/master/foto/pinjam.JPG)
 
-## > next
+## > aksi tambah pinjam
 > lorem
 ![Alt Text](https://github.com/rendiwibawa/Web-Native-Perpustakaan/blob/master/foto/tambah%20pinjam.JPG)
