@@ -46,11 +46,6 @@ native adalah aplikasi yang dibangun dengan bahasa pemrograman yang spesifik unt
 > lorem
 ![Alt Text](https://github.com/rendiwibawa/Web-Native-Perpustakaan/blob/master/foto/edit%20peminjam.JPG)
 
-
-## > aksi pinjam
-> lorem
-![Alt Text](https://github.com/rendiwibawa/Web-Native-Perpustakaan/blob/master/foto/pinjam.JPG)
-
 ## > aksi tambah pinjam
 > lorem
 ![Alt Text](https://github.com/rendiwibawa/Web-Native-Perpustakaan/blob/master/foto/tambah%20pinjam.JPG)
