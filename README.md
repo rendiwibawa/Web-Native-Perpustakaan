@@ -39,13 +39,13 @@ native adalah aplikasi yang dibangun dengan bahasa pemrograman yang spesifik unt
 ![Alt Text](https://github.com/rendiwibawa/Web-Native-Perpustakaan/blob/master/foto/h.JPG)
 
 ## > saat aksi detail
-> lorem
+> maap guys error karena modul 4 kurang lengkap
 ![Alt Text](https://github.com/rendiwibawa/Web-Native-Perpustakaan/blob/master/foto/detail.JPG)
 
 ## > aksi edit
-> lorem
+> edit akan mengedit data yang di select
 ![Alt Text](https://github.com/rendiwibawa/Web-Native-Perpustakaan/blob/master/foto/edit%20peminjam.JPG)
 
 ## > aksi tambah pinjam
-> lorem
+> tambah akan menambah data peminjaman buku
 ![Alt Text](https://github.com/rendiwibawa/Web-Native-Perpustakaan/blob/master/foto/tambah%20pinjam.JPG)
